@@ -877,7 +877,7 @@ ol {
 }
 
 .page-info-section .pi-content h2 {
-	font-size: 60px;
+	font-size: 40px;
 	margin-bottom: 25px;
 	font-weight: 400;
 }
@@ -1292,6 +1292,11 @@ ol {
 	background-color: rgba(0,0,0,0.6);
 	border-radius: 12px;
 	padding: 2px;
+
+}
+.page-info-title{
+	font-size: 20px;
+	padding: 5px;
 
 }
 
